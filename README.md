@@ -13,10 +13,10 @@ Full-stack product engineer based in Montréal. For 6+ years I've been building 
 Most of my work lives in private, client-owned repositories, so my public activity doesn't reflect it. The contribution graph shows the day-to-day. I'm happy to walk through architecture and code decisions in conversation.
 
 ## Stack
-**Languages**: TypeScript/JavaScript · Python · C# · C++ · SQL
-**Web & Backend**: React · Angular · Node.js · NestJS · REST APIs · real-time systems
-**Data & Cloud**: PostgreSQL · Supabase · AWS · Docker · CI/CD · Linux · Render
-**Interactive**: Unity · Unreal Engine · Raspberry Pi · GLSL/HLSL
+**Languages**: TypeScript/JavaScript · Python · C# · C++ · SQL  
+**Web & Backend**: React · Angular · Node.js · NestJS · REST APIs · real-time systems  
+**Data & Cloud**: PostgreSQL · Supabase · AWS · Docker · CI/CD · Linux · Render  
+**Interactive**: Unity · Unreal Engine · Raspberry Pi · GLSL/HLSL  
 
 ## Find me
 
